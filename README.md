@@ -1,5 +1,10 @@
 # POOSE3 ProjectGamma
 
+> **Status: not actively maintained.** This was a university group project and is kept for
+> reference only. CI still runs the org-wide security checks; the Trivy check reports known
+> vulnerabilities in the old, unmaintained dependencies (`uv.lock`) and is expected to fail.
+> Do not deploy this code as-is.
+
 ## Idea of the Mercatoria marketplace
 
 Welcome to Mercatoria—a bustling, medieval-inspired city where trade reigns supreme. In this dynamic marketplace, players take on the role of influential guild leaders, each representing a distinct trade such as blacksmithing, cloth making, spice dealing, or alchemy.
